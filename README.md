@@ -42,8 +42,4 @@ Sobre o projeto
 
 ## Contribuições
 
-Ressaltar contribuições que julgarem relevantes
-
-
-
-
+O trabalho mostrou grande contribuição na análise dos fatores de risco para o desenvolvimento e controle da diabetes.
