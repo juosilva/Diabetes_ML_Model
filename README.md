@@ -12,7 +12,7 @@ Sobre o projeto
 
 - Quem são os participantes?
     Beatriz Brito,
-    César Noronha
+    César Noronha, 
     Julio Oliveira
 
 ## Organização do projeto
